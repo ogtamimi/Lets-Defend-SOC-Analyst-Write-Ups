@@ -363,3 +363,35 @@ This lesson covered common mistakes made by SOC analysts and how to avoid them. 
 
 > **ANSWER: CHECK**
 
+
+## 10) Quiz 
+
+### Which type of SOC team does not have its own facility and often works remotely in different locations?
+> **ANSWER: Virtual SOC**
+### I am responsible for connecting security products. My job title is ...
+> **ANSWER: Security engineer**
+### What is SOC?
+> **ANSWER: Security Operation Center**
+### Which tool is the most important for a SOC analyst?
+> **ANSWER: All of this, and much more**
+### Which type of SOC model corresponds to the following definition: "consists of internal SOC personnel working with an external Managed Security Service Provider"?
+> **ANSWER: Co-Managed SOC**
+### Which SOC position corresponds to the following definition: "A team member whose purpose is to find vulnerabilities before the attacker can exploit them in an attack."?
+> **ANSWER: Threat Hunter**
+### What is the goal of a SIEM?
+> **ANSWER: To provides the real time logging of events in an environment.**
+### Which LetsDefend's page is the SIEM?
+> **ANSWER: Monitoring**
+### What is an EDR?
+> **ANSWER: A software that monitor the terminals (computers, servers, tablets, phones...) and not the information system network.**
+### What are the different steps of the lifecycle for the NIST, of a incident?
+> **ANSWER: Monitoring**
+### What are the different steps of the lifecycle for the NIST, of a incident?
+> **ANSWER: Preparation, Detection/Analysis, Containment / Eradicationand Recovery, Post-Event Activity**
+### What are the different steps of the lifecycle for the NIST, of a incident?
+> **ANSWER: Playbook**
+### Which information do you not have in the Threat Intelligence Feed?
+> **ANSWER: A sample of the infected file**
+### Which is a common mistake for SOC analysts?
+> **ANSWER: Insufficient log analysis**
+# 100% CORRECT
