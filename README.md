@@ -9,13 +9,13 @@ The repository is organized into structured modules, following the SOC Analyst l
 ```text
 .
 ├── SOC/
-│   ├── Assets/                 # Visual aids and screenshots used in write-ups
-│   │   └── SOC_Fundamentals/   # Images for the SOC Fundamentals module
-│   └── MD Files/               # Detailed markdown write-ups for each lecture
-│       ├── [1 - SOC Fundamentals.md](https://github.com/ogtamimi/Lets-Defend-SOC-Analyst-Write-Ups/blob/main/SOC/MD%20Files/1%20-%20SOC%20Fundamentals.md)
-│       ├── [2 - Cyber Kill Chain.md](https://github.com/ogtamimi/Lets-Defend-SOC-Analyst-Write-Ups/blob/main/SOC/MD%20Files/2%20-%20Cyber%20Kill%20Chain.md)
-├── [LICENSE](https://github.com/ogtamimi/Lets-Defend-SOC-Analyst-Write-Ups/blob/main/LICENSE)                     # MIT License
-└── README.md                   # Project overview and structure
+│   ├── Assets/                      # Visual aids and screenshots used in write-ups
+│   │
+│   └── MD Files/                    # Detailed markdown write-ups for each lecture
+│       ├── 1 - SOC Fundamentals.md
+│       ├── 2 - Cyber Kill Chain.md
+├── LICENSE                          # MIT License
+└── README.md                        # Project overview and structure
 ```
 
 ## 📝 Modules Covered
