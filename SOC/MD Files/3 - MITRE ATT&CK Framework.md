@@ -1,4 +1,4 @@
-# LECTURE2: MITRE ATT&CK Framework
+# LECTURE3: MITRE ATT&CK Framework
 
 ## 1) Introduction
 > **ANSWER: CHECK**
