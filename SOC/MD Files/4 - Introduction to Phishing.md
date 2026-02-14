@@ -1,4 +1,4 @@
-# LECTURE4: Introduction to Phishing
+# LECTURE4: Phishing Email Analysis
 
 
 ## 1) Introduction to Phishing
