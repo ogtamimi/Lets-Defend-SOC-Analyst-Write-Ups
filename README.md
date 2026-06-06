@@ -2,14 +2,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=Lets+Defend+-+SOC+Analyst+Learning+Path;Write-Ups+and+Security+Notes" />
 </p>
+
 A comprehensive collection of write-ups and study materials for the **LetsDefend SOC Analyst Learning Path**. 
 This repository is designed to document the learning journey, provide clear explanations for various SOC concepts, 
 and offer solutions to practical scenarios encountered during the certification process.
 
 <br>
-<br>
 
-![Security](https://img.shields.io/badge/Security-Responsible%20Disclosure-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+<p align="center">
+  <a href="https://www.paypal.com/ncp/payment/RX34HD3NY2RQ8" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20My%20SOC%20Writeups-PayPal%20%7C%20Apple%20Pay%20%7C%20Card-0070ba?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</p>
+<br>
 
 # 📁 Repository Structure
 
