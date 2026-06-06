@@ -102,7 +102,7 @@ The repository is organized into structured modules, following the SOC Analyst l
 - **[20 - SOC105 - Requested T.I. URL address](https://github.com/ogtamimi/Lets-Defend-SOC-Analyst-Write-Ups/blob/main/SOC/Labs/LetsDefend%20SOC%20Walkthrough%20-%2020%20-%20SOC105%20-%20Requested%20T.I.%20URL%20address.md)**
 - **[28 - SOC105 - Requested T.I. URL address](https://github.com/ogtamimi/Lets-Defend-SOC-Analyst-Write-Ups/blob/main/SOC/Labs/LetsDefend%20SOC%20Walkthrough%20-%2028%20-%20SOC105%20-%20Requested%20T.I.%20URL%20address.md)**
 - **[76 - SOC137 - Malicious File Script Download Attempt](https://github.com/ogtamimi/Lets-Defend-SOC-Analyst-Write-Ups/blob/main/SOC/Labs/LetsDefend%20SOC%20Walkthrough%20-%2076%20-%20SOC137%20-%20Malicious%20File%20Script%20Download%20Attempt.md)**
-- **[320 - SOC342 - CVE-2025-53770 SharePoint ToolShell Auth Bypass and RCE](https://github.com/ogtamimi/Lets-Defend-SOC-Analyst-Write-Ups/blob/main/SOC/Labs/LetsDefend%20SOC%20Walkthrough%20320%20-%20SOC342%20-%20CVE-2025-53770%20SharePoint%20ToolShell%20Auth%20Bypass%20and%20RCE.md)**
+- **[320 - SOC342 - CVE-2025-53770 SharePoint ToolShell Auth Bypass and RCE](https://github.com/ogtamimi/Lets-Defend-SOC-Analyst-Write-Ups/blob/main/SOC/Labs/LetsDefend%20SOC%20Walkthrough%20320%20-%20SOC342%20-%20CVE%E2%80%912025%E2%80%9153770%20SharePoint%20ToolShell%20Auth%20Bypass%20and%20RCE.md)**
 
 ## 🎓 Certificate
 
