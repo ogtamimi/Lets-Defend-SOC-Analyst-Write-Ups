@@ -1,6 +1,6 @@
 # Security Policy
 
-## 🛡️ Supported Versions
+## Supported Versions
 
 This repository is a documentation-based project containing SOC analysis write-ups.
 
@@ -8,7 +8,7 @@ Since this project does not contain production code, all versions are considered
 
 ---
 
-## 🚨 Reporting a Vulnerability
+## Reporting a Vulnerability
 
 If you discover a security issue related to this repository (for example: exposed credentials, sensitive information, or accidental disclosure of private data), please follow these steps:
 
@@ -24,7 +24,7 @@ We will review and address the issue as soon as possible.
 
 ---
 
-## 🔐 Responsible Disclosure
+## Responsible Disclosure
 
 We are committed to responsible disclosure. If a valid issue is identified:
 
@@ -34,7 +34,7 @@ We are committed to responsible disclosure. If a valid issue is identified:
 
 ---
 
-## 📋 Security Best Practices for Contributors
+## Security Best Practices for Contributors
 
 When contributing:
 
@@ -46,7 +46,7 @@ When contributing:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This repository contains educational write-ups related to SOC analysis training.  
 All investigations and examples are based on simulated environments (LetsDefend platform).
