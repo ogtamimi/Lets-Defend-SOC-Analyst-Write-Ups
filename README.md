@@ -118,7 +118,7 @@ The repository is organized into structured modules, following the SOC Analyst l
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details .
 
 ---
 *Disclaimer: These write-ups are for educational purposes and are based on the [LetsDefend](https://letsdefend.io/) SOC Analyst Learning Path.*
