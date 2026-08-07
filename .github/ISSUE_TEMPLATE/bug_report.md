@@ -15,6 +15,3 @@ Describe what is wrong. Is it a typo, a wrong IP/hash analysis, or a broken imag
 
 ## ✅ Suggested Correction
 What should it say instead? If it's a technical correction, please explain why (e.g., "The alert was actually a True Positive because...").
-
-## 📸 Screenshots (Optional)
-If applicable, add screenshots from the LetsDefend platform to support the correction.
